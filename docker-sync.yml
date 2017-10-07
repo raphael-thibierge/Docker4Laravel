@@ -1,0 +1,6 @@
+version: '2'  
+syncs:  
+    app-sync-back:
+      src: "${APPLICATION_BACK}"
+    app-sync-front:
+      src: "${APPLICATION_FRONT}"
